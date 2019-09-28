@@ -2,24 +2,48 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32905" started-at="2019-03-14T16:09:54Z" finished-at="2019-03-14T16:10:27Z">
+  <suite name="DemotestFireAutomation" duration-ms="36443" started-at="2019-09-28T14:02:21Z" finished-at="2019-09-28T14:02:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32905" started-at="2019-03-14T16:09:54Z" finished-at="2019-03-14T16:10:27Z">
+    <test name="loginTest" duration-ms="36443" started-at="2019-09-28T14:02:21Z" finished-at="2019-09-28T14:02:57Z">
       <class name="com.qa.tests.LoginTestclass">
-        <test-method status="PASS" signature="titleTest()[pri:1, instance:com.qa.tests.LoginTestclass@26be92ad]" name="titleTest" duration-ms="21003" started-at="2019-03-14T16:09:54Z" finished-at="2019-03-14T16:10:15Z">
+        <test-method status="PASS" signature="inittest()[pri:0, instance:com.qa.tests.LoginTestclass@26653222]" name="inittest" is-config="true" duration-ms="14744" started-at="2019-09-28T14:02:21Z" finished-at="2019-09-28T14:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inittest -->
+        <test-method status="PASS" signature="titleTest()[pri:1, instance:com.qa.tests.LoginTestclass@26653222]" name="titleTest" duration-ms="28" started-at="2019-09-28T14:02:35Z" finished-at="2019-09-28T14:02:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleTest -->
-        <test-method status="PASS" signature="logoTest()[pri:2, instance:com.qa.tests.LoginTestclass@26be92ad]" name="logoTest" duration-ms="47" started-at="2019-03-14T16:10:15Z" finished-at="2019-03-14T16:10:15Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.qa.tests.LoginTestclass@26653222]" name="close" is-config="true" duration-ms="759" started-at="2019-09-28T14:02:36Z" finished-at="2019-09-28T14:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="inittest()[pri:0, instance:com.qa.tests.LoginTestclass@26653222]" name="inittest" is-config="true" duration-ms="5067" started-at="2019-09-28T14:02:36Z" finished-at="2019-09-28T14:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inittest -->
+        <test-method status="PASS" signature="logoTest()[pri:2, instance:com.qa.tests.LoginTestclass@26653222]" name="logoTest" duration-ms="59" started-at="2019-09-28T14:02:41Z" finished-at="2019-09-28T14:02:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoTest -->
-        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.tests.LoginTestclass@26be92ad]" name="loginTest" duration-ms="11774" started-at="2019-03-14T16:10:15Z" finished-at="2019-03-14T16:10:27Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.qa.tests.LoginTestclass@26653222]" name="close" is-config="true" duration-ms="638" started-at="2019-09-28T14:02:41Z" finished-at="2019-09-28T14:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="inittest()[pri:0, instance:com.qa.tests.LoginTestclass@26653222]" name="inittest" is-config="true" duration-ms="5561" started-at="2019-09-28T14:02:42Z" finished-at="2019-09-28T14:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inittest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.tests.LoginTestclass@26653222]" name="loginTest" duration-ms="8727" started-at="2019-09-28T14:02:48Z" finished-at="2019-09-28T14:02:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.qa.tests.LoginTestclass@26653222]" name="close" is-config="true" duration-ms="792" started-at="2019-09-28T14:02:56Z" finished-at="2019-09-28T14:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
       </class> <!-- com.qa.tests.LoginTestclass -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- loginTest -->
+  </suite> <!-- DemotestFireAutomation -->
 </testng-results>

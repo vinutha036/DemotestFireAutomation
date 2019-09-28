@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="DemotestFireAutomation">
+<test name="loginTest">
+<classes>
+<class name="com.qa.tests.LoginTestclass">
+</class>
+</classes>
+</test>
+</suite>
